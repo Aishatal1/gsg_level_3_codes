@@ -64,6 +64,7 @@ CONUT: 6
 
 Process finished with exit code 0
 
+COUNT formula: 3 * 2^(n-1)
 
 Aisha Taleb Ahmad Ahmad
 aishataleb81@gmail.com
