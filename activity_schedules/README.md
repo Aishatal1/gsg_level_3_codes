@@ -17,6 +17,7 @@ Input
 Valid schedules
 
 Football Running
+
 Football Swimming
 Running Football
 Running Swimming
