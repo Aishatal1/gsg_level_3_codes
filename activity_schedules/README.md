@@ -43,5 +43,27 @@ This is a recursion problem.
 
 At each day, try the 3 activities but skip the one equal to the previous day's choice.
 
+output of running an example in the solution:
+
+
+2
+
+ Swimming Running
+ 
+ Swimming Football
+ 
+ Running Swimming
+ 
+ Running Football
+ 
+ Football Swimming
+ 
+ Football Running
+ 
+CONUT: 6
+
+Process finished with exit code 0
+
+
 Aisha Taleb Ahmad Ahmad
 aishataleb81@gmail.com
